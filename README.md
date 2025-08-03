@@ -23,6 +23,8 @@ The app allows users to:
 ---
 
 ## 🚀 Live Demo
+This the Video on Youtube showing how the App works.
+https://youtu.be/qPAZbJYoVOE
 
 You can try the app here:  
 🔗 **[Fashion MNIST App on Hugging Face Spaces](https://huggingface.co/spaces/JollyUmulisa/fashion-mnist-app)**
