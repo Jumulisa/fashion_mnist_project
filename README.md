@@ -1,1 +1,3 @@
-# fashion_mnist_project
+# Fashion MNIST Project
+
+Project description here.
